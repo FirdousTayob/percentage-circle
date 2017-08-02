@@ -1,0 +1,19 @@
+{
+  "name": "percentage-circle",
+  "version": "1.0.0",
+  "description": "display percentage as circular progress bar",
+  "private": true,
+  "main": [
+    "percentage-circle.html"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9.1"
+  },
+  "ignore": [
+    "bower_components"
+  ],
+  "resolutions": {
+    "polymer": "^1.9.1",
+    "webcomponentsjs": "^v1.0.2"
+  }
+}
